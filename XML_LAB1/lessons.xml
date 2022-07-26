@@ -1,0 +1,18 @@
+<?xml version = "1.0" encoding ="utf-8"?>
+<lessons itmo_courses="http://www.itmo.ru/xml/lessons">
+    <course_csharp>
+	   <teacher>Смольянинов</teacher> 
+	   <period>27.06.2022-18.07.2022</period>
+	   <literature>habr.com</literature>
+	</course_csharp>
+	<course_html_xml>
+	   <teacher>Смольянинов</teacher> 
+	   <period>21.07.2022-26.07.2022</period>
+	   <literature>habr.com</literature>
+	</course_html_xml>
+	<course_ado.net>
+	   <teacher>Кузьмин</teacher> 
+	   <period>01.09.2022-16.09.2022</period>
+	   <literature>habr.com</literature>
+	</course_ado.net>
+</lessons>
